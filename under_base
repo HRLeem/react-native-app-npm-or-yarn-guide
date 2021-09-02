@@ -1,0 +1,12 @@
+--- Navigation ---
+o for navigation
+- yarn add @react-navigation/native
+
+o ++
+- expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+o stack navigation ( for createStackNavigator )
+- yarn add @react-navigation/stack
+
+o linking
+- expo install expo-linking

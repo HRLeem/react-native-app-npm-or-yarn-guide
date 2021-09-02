@@ -1,0 +1,8 @@
+o for permission with location in expo
+- expo install expo-location
+
+o axios
+- yarn add axios
+
+o firebase
+- expo install firebase

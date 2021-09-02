@@ -1,0 +1,14 @@
+o yarn 설치
+- npm install -g yarn
+- yarn -v
+
+o expo 명령어 도구 설치
+- npm install -g expo-cli
+** if 'permission denied' --> sudo npm install -g expo-cli
+
+o expo 계정 셋팅
+- expo login --username ${name}
+
+o expo status-bar
+- expo install expo-status-bar
+
